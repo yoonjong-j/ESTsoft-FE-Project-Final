@@ -2,7 +2,13 @@
 
 ## 목차
 
+- [배포 주소](#배포-주소)
 - [프로젝트 소개](#프로젝트-소개)
+- [팀원 구성](#팀원-구성)
+- [개발 환경](#개발-환경)
+- [주요 기능](#주요-기능)
+
+## 배포 주소
 
 ## 프로젝트 소개
 
@@ -10,7 +16,7 @@
 
 - 피그마 페이지에 게시된 웹 디자인을 바탕으로 웹 페이지를 구현하고 GitHub Pages를 통해 배포
 - PC 유저는 물론, 모바일 유저까지 고려한 반응형 웹 페이지 구현
-- 피드백을 통해 코드 리팩토링과 전체적인 Repository 개선이 주요 목적 ([프로젝트 Ver.1](https://github.com/yoonjong-j/ESTsoft-FE-Project.git))
+- 발표 때 받은 피드백을 통해 코드 리팩토링과 전체적인 Repository 개선이 주요 목적 ([프로젝트 Ver.1](https://github.com/yoonjong-j/ESTsoft-FE-Project.git))
 
 ## 팀원 구성
 
@@ -18,3 +24,19 @@
 | -------------------------------------------- |
 | 장윤종                                       |
 | [@yoonjong-j](https://github.com/yoonjong-j) |
+
+## 개발 환경
+
+### IDE
+
+- Visual Studio Code
+
+### Language
+
+- HTML
+- CSS
+- JavaScript
+
+## 화면 구성
+
+## 주요 기능
