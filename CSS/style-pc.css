@@ -1,14 +1,22 @@
 #header-wrap {
   width: 100vw;
   height: 102px;
-  background-color: #f2e9d8;
-  box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.5);
   top: 0;
+  z-index: 100;
   position: sticky;
   position: -webkit-sticky;
-  z-index: 100;
+  background-color: #f2e9d8;
+  /* box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.5); */
 }
 
 .nav-bar {
   display: flex;
+}
+
+.header-logo {
+  width: 10vw;
+  height: 3vh;
+  top: 3vh;
+  left: 23vw;
+  position: absolute;
 }
