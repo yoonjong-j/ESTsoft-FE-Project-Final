@@ -14,9 +14,15 @@
 }
 
 .header-logo {
-  width: 10vw;
+  width: 20vw;
   height: 3vh;
-  top: 3vh;
-  left: 23vw;
+  top: 31px;
+  left: 10vw;
   position: absolute;
+  cursor: pointer;
+}
+
+.nav-items {
+  display: flex;
+  justify-content: space-between;
 }
