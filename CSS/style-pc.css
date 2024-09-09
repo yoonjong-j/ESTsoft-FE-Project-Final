@@ -23,6 +23,13 @@
 }
 
 .nav-items {
+  width: 18vw;
+  /* width: 205px; */
+  height: 2vh;
+  /* height: 20px; */
+  top: 41px;
+  right: 20vw;
+  position: absolute;
   display: flex;
   justify-content: space-between;
 }
