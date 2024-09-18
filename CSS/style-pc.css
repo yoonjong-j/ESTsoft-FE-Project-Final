@@ -59,3 +59,14 @@ span {
   width: 76px;
   height: 20px;
 }
+
+#about-section {
+  width: 100vw;
+  height: 900px;
+  background-color: #f2e9d8;
+}
+
+#img-txt-section {
+  width: 100vw;
+  height: 900px;
+}
