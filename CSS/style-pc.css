@@ -42,6 +42,9 @@
 .download-btn {
   width: 140px;
   height: 50px;
+}
+
+#header-download-btn {
   top: 26px;
   right: 8vw;
   position: absolute;
@@ -64,6 +67,23 @@ span {
   width: 100vw;
   height: 900px;
   background-color: #f2e9d8;
+}
+
+#about-section > h2 {
+  width: 695px;
+  height: 120px;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 60px;
+  color: #000000;
+}
+
+#about-section > p {
+  width: 420px;
+  height: 86px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
 }
 
 #img-txt-section {
